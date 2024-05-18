@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ComposeScreenshotTesting</string>
+    <string name="youre_logged_in">You\'re logged in</string>
+    <string name="welcome_to_runique">Welcome to Runique!</string>
+    <string name="track_your_runs">Track your runs, set goals and achieve fitness milestones with our intuitive app.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="hi_there">Hi there!</string>
+    <string name="welcome_text">Welcome to your ultimate running companion! Track, analyze and conquer your runs.</string>
+    <string name="sample_email">example@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="have_an_account">Already have an account?</string>
+    <string name="must_be_a_valid_email">Must be a valid email</string>
+    <string name="at_least_x_characters">At least %d characters</string>
+    <string name="at_least_one_number">At least one number</string>
+    <string name="contains_lowercase_character">Contains lowercase character</string>
+    <string name="contains_uppercase_character">Contains uppercase character</string>
+    <string name="register">Register</string>
+    <string name="the_email_or_password_is_incorrect">The email or password is incorrect.</string>
+    <string name="email_already_exists">A user with that email already exists.</string>
+    <string name="successfully_registered">Registration successful! You can log in now.</string>
+</resources>
